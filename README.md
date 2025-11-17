@@ -13,3 +13,5 @@ Key Features:
 🔄 Real-time Feedback: Shows a "Thinking..." animation while processing requests.
 
 Tech Stack: Python, Streamlit, Google GenAI SDK.
+
+Check out : "https://d-chatbot.streamlit.app/"
