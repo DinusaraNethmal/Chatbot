@@ -25,7 +25,7 @@ if client is None:
 
 def get_chat_session():
     return client.chats.create(
-        model="gemini-2.5-flash",
+        model="gemini-2.0-flash",
         config=types.GenerateContentConfig(
             system_instruction="You are a helpful AI assistant."
         )
