@@ -10,7 +10,7 @@ Key Features:
 
 🎨 Clean UI: Built with a user-friendly interface using Streamlit.
 
-🔄 Real-time Feedback: Shows a "Thinking..." animation while processing requests.
+🔄 Real-time Feedback.
 
 Tech Stack: Python, Streamlit, Google GenAI SDK.
 
