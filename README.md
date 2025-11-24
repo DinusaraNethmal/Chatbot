@@ -1,4 +1,4 @@
-# My Gemini Chatbot 🤖
+# My Chatbot 🤖
 
 A smart, interactive AI chatbot built using Python and Streamlit, powered by Google's Gemini 2.0 Flash model.
 
